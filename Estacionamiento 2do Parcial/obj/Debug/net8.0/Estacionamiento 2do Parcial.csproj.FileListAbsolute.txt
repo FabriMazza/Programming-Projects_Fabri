@@ -1,0 +1,28 @@
+D:\Fabri Varios\UTN Programacion\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\bin\Debug\net8.0\Estacionamiento 2do Parcial.exe
+D:\Fabri Varios\UTN Programacion\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\bin\Debug\net8.0\Estacionamiento 2do Parcial.deps.json
+D:\Fabri Varios\UTN Programacion\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\bin\Debug\net8.0\Estacionamiento 2do Parcial.runtimeconfig.json
+D:\Fabri Varios\UTN Programacion\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\bin\Debug\net8.0\Estacionamiento 2do Parcial.dll
+D:\Fabri Varios\UTN Programacion\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\bin\Debug\net8.0\Estacionamiento 2do Parcial.pdb
+D:\Fabri Varios\UTN Programacion\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\Estacionamiento 2do Parcial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabri Varios\UTN Programacion\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\Estacionamiento 2do Parcial.AssemblyInfoInputs.cache
+D:\Fabri Varios\UTN Programacion\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\Estacionamiento 2do Parcial.AssemblyInfo.cs
+D:\Fabri Varios\UTN Programacion\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\Estacionamiento 2do Parcial.csproj.CoreCompileInputs.cache
+D:\Fabri Varios\UTN Programacion\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\Estacionamiento 2do Parcial.dll
+D:\Fabri Varios\UTN Programacion\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\refint\Estacionamiento 2do Parcial.dll
+D:\Fabri Varios\UTN Programacion\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\Estacionamiento 2do Parcial.pdb
+D:\Fabri Varios\UTN Programacion\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\Estacionamiento 2do Parcial.genruntimeconfig.cache
+D:\Fabri Varios\UTN Programacion\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\ref\Estacionamiento 2do Parcial.dll
+D:\Fabri Varios\UTN Programacion\1er Cuatrimestre\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\bin\Debug\net8.0\Estacionamiento 2do Parcial.exe
+D:\Fabri Varios\UTN Programacion\1er Cuatrimestre\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\bin\Debug\net8.0\Estacionamiento 2do Parcial.deps.json
+D:\Fabri Varios\UTN Programacion\1er Cuatrimestre\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\bin\Debug\net8.0\Estacionamiento 2do Parcial.runtimeconfig.json
+D:\Fabri Varios\UTN Programacion\1er Cuatrimestre\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\bin\Debug\net8.0\Estacionamiento 2do Parcial.dll
+D:\Fabri Varios\UTN Programacion\1er Cuatrimestre\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\bin\Debug\net8.0\Estacionamiento 2do Parcial.pdb
+D:\Fabri Varios\UTN Programacion\1er Cuatrimestre\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\Estacionamiento 2do Parcial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabri Varios\UTN Programacion\1er Cuatrimestre\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\Estacionamiento 2do Parcial.AssemblyInfoInputs.cache
+D:\Fabri Varios\UTN Programacion\1er Cuatrimestre\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\Estacionamiento 2do Parcial.AssemblyInfo.cs
+D:\Fabri Varios\UTN Programacion\1er Cuatrimestre\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\Estacionamiento 2do Parcial.csproj.CoreCompileInputs.cache
+D:\Fabri Varios\UTN Programacion\1er Cuatrimestre\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\Estacionamiento 2do Parcial.dll
+D:\Fabri Varios\UTN Programacion\1er Cuatrimestre\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\refint\Estacionamiento 2do Parcial.dll
+D:\Fabri Varios\UTN Programacion\1er Cuatrimestre\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\Estacionamiento 2do Parcial.pdb
+D:\Fabri Varios\UTN Programacion\1er Cuatrimestre\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\Estacionamiento 2do Parcial.genruntimeconfig.cache
+D:\Fabri Varios\UTN Programacion\1er Cuatrimestre\Programacion I\Proyectos C#\Estacionamiento 2do Parcial\Estacionamiento 2do Parcial\obj\Debug\net8.0\ref\Estacionamiento 2do Parcial.dll
