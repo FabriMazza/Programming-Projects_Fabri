@@ -95,7 +95,3 @@ El sistema utiliza tres entidades principales:
 ## Autor
 
 Mazza Leon, Fabrizio Lautaro - 61848
-
-## Licencia
-
-Proyecto académico - Universidad Tecnológica Nacional
