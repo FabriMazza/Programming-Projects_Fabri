@@ -1,4 +1,4 @@
-# Hola, soy Fabricio! 👋
+# Hola, soy Fabrizio! 👋
 
 ### 🚀 Desarrollador Fullstack | Programador (UTN-FRT Argentina) | Editor de Video | Músico | Tec. En Sonorización (UNT Argentina)
 
@@ -46,7 +46,7 @@ Soy un apasionado por la tecnología y la creación de soluciones digitales. Enf
 
 ### English
 
-# Hi, I'm Fabricio! 👋
+# Hi, I'm Fabrizio! 👋
 
 ### 🚀 Fullstack Developer | Programmer (UTN-FRT Argentina) | Video Editor | Musician | Sound Technician (UNT Argentina)
 
@@ -88,6 +88,7 @@ I am passionate about technology and creating digital solutions, focusing on bui
 ---
 
 ### 📫 Let's Connect:
-- **LinkedIn:** [Fabricio Mazza](LINK_A_TU_PERFIL)
+- **LinkedIn:** [Fabrizio Mazza](LINK_A_TU_PERFIL)
 - **Email:** [fabri.mazza15@gmail.com]
+
 - **Instagram:** [@fabri.mazza](https://www.instagram.com/fabri.mazza)
