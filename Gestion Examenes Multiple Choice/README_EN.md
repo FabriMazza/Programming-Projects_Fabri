@@ -95,7 +95,3 @@ The system uses three main entities:
 ## Author
 
 Mazza Leon, Fabrizio Lautaro - 61848
-
-## License
-
-Academic project - Universidad Tecnológica Nacional (National Technological University)
