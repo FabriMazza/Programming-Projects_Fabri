@@ -40,7 +40,7 @@ Soy un apasionado por la tecnología y la creación de soluciones digitales. Enf
 ---
 
 ### 📫 Conectemos:
-- **LinkedIn:** [Tu Nombre en LinkedIn](LINK_A_TU_PERFIL)
+- **LinkedIn:** [Fabrizio Mazza](LINK_A_TU_PERFIL)
 - **Email:** [fabri.mazza15@gmail.com]
 - **Instagram:** [@fabri.mazza](https://www.instagram.com/fabri.mazza)
 
