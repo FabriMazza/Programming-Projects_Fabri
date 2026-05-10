@@ -40,7 +40,7 @@ Soy un apasionado por la tecnología y la creación de soluciones digitales. Enf
 ---
 
 ### 📫 Conectemos:
-- **LinkedIn:** [Fabrizio Mazza](LINK_A_TU_PERFIL)
+- **LinkedIn:** [Fabrizio Mazza](https://www.linkedin.com/in/fabri-mazza)
 - **Email:** [fabri.mazza15@gmail.com]
 - **Instagram:** [@fabri.mazza](https://www.instagram.com/fabri.mazza)
 
@@ -88,7 +88,7 @@ I am passionate about technology and creating digital solutions, focusing on bui
 ---
 
 ### 📫 Let's Connect:
-- **LinkedIn:** [Fabrizio Mazza](LINK_A_TU_PERFIL)
+- **LinkedIn:** [Fabrizio Mazza](https://www.linkedin.com/in/fabri-mazza)
 - **Email:** [fabri.mazza15@gmail.com]
 
 - **Instagram:** [@fabri.mazza](https://www.instagram.com/fabri.mazza)
